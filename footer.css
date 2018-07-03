@@ -1,6 +1,7 @@
 
 .footer {
     background-color:#ccc; float: left;width: 750px;margin: 5px;
+    text-align: center;
 }
 .fa {
     padding: 20px;
